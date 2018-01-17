@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/jquery.flexslider.js": "/js/jquery.flexslider.js",
+    "/js/validate.js": "/js/validate.js",
+    "/js/sort.js": "/js/sort.js",
+    "/js/search.js": "/js/search.js",
+    "/js/review.js": "/js/review.js",
+    "/js/profile.js": "/js/profile.js",
+    "/js/paginate_ajax.js": "/js/paginate_ajax.js",
+    "/js/order.js": "/js/order.js",
+    "/js/jquery.nicescroll.js": "/js/jquery.nicescroll.js",
+    "/js/jquery.easydropdown.js": "/js/jquery.easydropdown.js",
+    "/js/jquery-ui.js": "/js/jquery-ui.js",
+    "/js/imagezoom.js": "/js/imagezoom.js",
+    "/js/easy_responsive_tabs.js": "/js/easy_responsive_tabs.js"
+}
