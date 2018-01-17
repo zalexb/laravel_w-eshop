@@ -7,7 +7,6 @@
     "require": {
         "php": ">=5.6.4",
         "ext-gd": " *",
-        "ext-mysql": "*",
         "cartalyst/sentinel": "2.0.*",
         "facebook/graph-sdk": "~5.0",
         "intervention/image": "dev-master",

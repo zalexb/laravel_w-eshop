@@ -20,10 +20,10 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         //redirect to https
-        $domain = preg_replace('#^https?://#', '', Request::root());
+        // $domain = preg_replace('#^https?://#', '', Request::root());
 
-        if($domain!=='luxury-laravel.com')
-            URL::forceScheme('https');
+        // if($domain!=='luxury-laravel.com')
+        //     URL::forceScheme('https');
 
         //all sql requests
 //        DB::listen(function ($query) {
